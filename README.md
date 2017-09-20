@@ -1,11 +1,11 @@
-Youtube Player
+# Youtube Player
 
-Tasks Completed
+## Tasks Completed
 1. setup starter kit from https://github.com/coryhouse/pluralsight-redux-starter
 2. setup redux 
 3. setup api call to youtube using axios
 
-to do 
+## to do 
 
 -build out video player component using react-youtube - https://www.npmjs.com/package/react-youtube
 
