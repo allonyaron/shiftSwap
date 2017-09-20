@@ -8,15 +8,10 @@
 ## To Do 
 
 - build out video player component using react-youtube - https://www.npmjs.com/package/react-youtube
-
 - setup scroll event listener to trigger api call 
-
 - build out markup and sass for video list
-
 - build filters by category - work on api call - no category being returned
-
 - provide HOC usage
-
 - unit testing
 
 ## Setup
