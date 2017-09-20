@@ -5,7 +5,7 @@
 2. setup redux 
 3. setup api call to youtube using axios
 
-## to do 
+## To Do 
 
 -build out video player component using react-youtube - https://www.npmjs.com/package/react-youtube
 
@@ -19,4 +19,7 @@
 
 -unit testing
 
-
+# Setup
+clone repository
+npm install
+npm start
