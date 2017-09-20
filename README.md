@@ -19,7 +19,7 @@
 
 -unit testing
 
-# Setup
+## Setup
 clone repository
 npm install
 npm start
